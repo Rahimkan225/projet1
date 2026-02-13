@@ -1,0 +1,8 @@
+[build]
+publish = "."
+
+[[redirects]]
+from = "/*"
+to = "https://REPLACE_WITH_RAILWAY_DOMAIN/:splat"
+status = 200
+force = true
