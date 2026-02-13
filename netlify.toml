@@ -3,6 +3,6 @@ publish = "."
 
 [[redirects]]
 from = "/*"
-to = "https://REPLACE_WITH_RAILWAY_DOMAIN/:splat"
+to = "https://projet1-production-d2f9.up.railway.app/:splat"
 status = 200
 force = true
