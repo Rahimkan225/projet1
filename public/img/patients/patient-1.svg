@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9f7f1"/>
+      <stop offset="1" stop-color="#d7f0e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bg)"/>
+  <circle cx="400" cy="170" r="86" fill="#2D6A4F" opacity="0.15"/>
+  <circle cx="400" cy="160" r="62" fill="#2D6A4F" opacity="0.25"/>
+  <path d="M250 420c20-92 94-150 150-150s130 58 150 150" fill="#2D6A4F" opacity="0.22"/>
+  <text x="50%" y="92%" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#2b2b2b" opacity="0.75">
+    Illustration patient
+  </text>
+</svg>
+

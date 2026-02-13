@@ -1,0 +1,30 @@
+# Environment
+.env
+.env.*
+!.env.example
+env.example.txt
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+vendor/
+node_modules/
+
+# Runtime / uploads / cache
+storage/*.log
+storage/cache/
+storage/sessions/
+storage/temp/
+uploads/
+public/uploads/
+
+# Tests
+.phpunit.result.cache
